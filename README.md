@@ -25,6 +25,4 @@ The report uncovers key insights on restaurant distribution, cuisine popularity,
 - **DAX** – Measures and calculated columns
 - **Data Modeling** – Relationships & transformations
 
----
 
-## 📂 Repository Structure
