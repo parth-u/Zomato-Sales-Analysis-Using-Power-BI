@@ -6,7 +6,7 @@ The report uncovers key insights on restaurant distribution, cuisine popularity,
 ---
 
 ## 📊 Dashboard Overview
-![Zomato Sales Dashboard](images/zomato_dashboard.png)
+![Zomato Sales Dashboard](images/Screenshot 2025-08-10 201842.png)
 
 ---
 
